@@ -11,7 +11,7 @@ const navbar = () => {
             <div className="ml-4">
               <h3 className="font-bold text-lg mt-1">Computer Science Club</h3>
               <h6 className="text-xs mb-1">
-                Adana Universty of Science&Technology
+                Adana Universty of Science & Technology
               </h6>
             </div>
           </div>
